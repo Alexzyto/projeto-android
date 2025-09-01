@@ -224,6 +224,9 @@ aside > ul {
     vertical-align: top; /* Alinha os elementos no topo */
 }
 
+.IA {
+    transform: translateX(50px);
+}
 .text-content {
     width: 100%; /* O texto ocupa 100% da largura do bloco */
 }
